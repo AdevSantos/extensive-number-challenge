@@ -30,7 +30,7 @@ Um servidor HTTP local que responda a requisições GET no formato [**http://loc
 ## Como Usar
 
 1. Clone o Repositório:
-   git clone [**https://github.com/seu-usuario/conversor-numero-extenso.git**]
+   git clone [**https://github.com/AdevSantos/extensive-number-challenge**]
    cd conversor-numero-extenso
    Configure e Inicie o Servidor HTTP:
 
